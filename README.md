@@ -10,7 +10,7 @@ This effort will leverage all the great work across the Pangeo & other open-sour
 - [intake-esm](https://intake-esm.readthedocs.io/en/latest/)<br>
 
 ### Use case #1: SST & surface nitrate projections for Arabian Sea ecological modelling
-A hypothetical ecological model of the Arabian Sea includes basin averaged SST and surface nitrate as inputs.  Researchers would like to explore ecosystem responses to future climate change projections under both SSP1-2.6 and SSP5-8.5 scenarios.  A monthly timeseries through 2100, averaged over the Arabian Sea, is required from a range of CMIP6 models to start the effort, and ouput in a useful format for import into R is required.  Another useful final product would be regridding all models onto a common grid for further comparison.
+A **hypothetical** ecological model of the Arabian Sea includes basin averaged SST and surface nitrate as inputs.  Researchers would like to explore ecosystem responses to future climate change projections under both SSP1-2.6 and SSP5-8.5 scenarios.  A monthly timeseries through 2100, averaged over the Arabian Sea, is required from a range of CMIP6 models to start the effort, and ouput in a useful format for import into R is required.  Another useful final product would be regridding all models onto a common grid for further comparison.
 
 Tasks:<br>
 *0. What CMIP6 models should we include in our ensemble and why? How do they perform for our areas of interest and with what known biases? (Out of scope - especially for this hypothetical example - but a literature review might be the first step here)*
