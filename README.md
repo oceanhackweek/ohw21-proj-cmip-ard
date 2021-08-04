@@ -15,7 +15,7 @@ A hypothetical ecological model of the Arabian Sea includes basin averaged SST a
 Tasks:<br>
 *0. What CMIP6 models should we include in our ensemble and why? How do they perform for our areas of interest and with what known biases? (Out of scope - especially for this hypothetical example - but a literature review might be the first step here)*
 1. Loading SST and surface nitrate for your chosen CMIP6 multi-model ensemble *(in this case arbitrarily choose a few models only, keeping in mind hub memory limits)*
-2. Visualise the spread of values across the mulit-model ensembles for each scenario.
+2. Visualise the spread of values across the multi-model ensembles for each scenario.
 3. Do we need to de-drift each CMIP model and how?
 4. Build an appropriate mask for computing the Arabian Sea spatially-averaged timeseries.
 5. Generate the region-average timeseries considering appropriate weighting for each model's grid. Format the timeseries data in a useful, human readable way.
