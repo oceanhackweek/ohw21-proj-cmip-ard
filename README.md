@@ -24,4 +24,3 @@ Stretch task:
 
 6. Regrid the multi-model ensemble onto a single, common grid for further comparison.
 
-### Other use cases?
